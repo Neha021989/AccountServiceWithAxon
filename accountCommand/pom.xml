@@ -6,6 +6,7 @@
 		 <groupId>sample.multimodule</groupId>
         <artifactId>sample.multimodule</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
+		 <relativePath>../</relativePath>
 	</parent>
 	<artifactId>accountCommand</artifactId>
 	<packaging>jar</packaging>  
@@ -18,7 +19,7 @@
 	<dependency>
 	 <groupId>sample.multimodule</groupId>
         <artifactId>accountModel</artifactId>
-		 <version>${project.version}</version>  
+		<version>0.0.1-SNAPSHOT</version>
 	</dependency>
 	</dependencies>
 	<build>

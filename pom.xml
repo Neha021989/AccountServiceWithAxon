@@ -19,8 +19,9 @@
 	</properties>
 	<modules>
 	<module>accountModel</module>
-	<module>accountQuery</module>
 	<module>accountCommand</module>
+	<module>accountQuery</module>
+
 	</modules>
 	<dependencies>
 		<dependency>

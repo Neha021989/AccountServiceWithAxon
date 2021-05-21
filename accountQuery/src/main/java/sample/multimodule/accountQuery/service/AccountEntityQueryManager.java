@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
-import sample.multimodule.accountModel.entity.AccountAggregate;
+import sample.multimodule.accountCommand.model.AccountAggregate;
 import sample.multimodule.accountModel.event.BaseEvent;
 import sample.multimodule.accountQuery.entity.AccountQueryEntity;
 import sample.multimodule.accountQuery.repository.AccountQueryRepository;

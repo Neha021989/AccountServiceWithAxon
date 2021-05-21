@@ -5,7 +5,7 @@ import org.axonframework.eventsourcing.eventstore.EventStore;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-import sample.multimodule.accountModel.entity.AccountAggregate;
+import sample.multimodule.accountCommand.model.AccountAggregate;
 
 @Configuration
 public class AccountConfig {
