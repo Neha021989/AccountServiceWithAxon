@@ -17,23 +17,15 @@
 	</properties>
 	<dependencies>
 	<dependency>
-	 <groupId>sample.multimodule</groupId>
+	 	<groupId>sample.multimodule</groupId>
         <artifactId>accountModel</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</dependency>
 	<dependency>
-	 <groupId>sample.multimodule</groupId>
+	 	<groupId>sample.multimodule</groupId>
         <artifactId>accountCommand</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</dependency>
 	</dependencies>
-	<build>
-		<plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
-		</plugins>
-	</build>
 
 </project>
