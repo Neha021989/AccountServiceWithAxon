@@ -1,0 +1,16 @@
+sample\multimodule\accountModel\command\CreditMoneyCommand.class
+sample\multimodule\accountModel\event\AccountActivatedEvent.class
+sample\multimodule\accountModel\entity\AccountAggregate.class
+sample\multimodule\accountModel\event\BaseEvent.class
+sample\multimodule\accountModel\command\CreateAccountCommand.class
+sample\multimodule\accountModel\event\AccountHeldEvent.class
+sample\multimodule\accountModel\entity\Status.class
+sample\multimodule\accountModel\event\MoneyCreditedEvent.class
+sample\multimodule\accountModel\AccountModelServiceWithAxonApplication.class
+sample\multimodule\accountModel\command\BaseCommand.class
+sample\multimodule\accountModel\command\DebitMoneyCommand.class
+sample\multimodule\accountModel\entity\MoneyCreditDto.class
+sample\multimodule\accountModel\event\MoneyDebitedEvent.class
+sample\multimodule\accountModel\entity\MoneyDebitDto.class
+sample\multimodule\accountModel\entity\AccountDto.class
+sample\multimodule\accountModel\event\AccountCreatedEvent.class
